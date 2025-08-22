@@ -1,2 +1,5 @@
 /*  your css code here. If applicable */
 #webpage{width:1100px;background-color:rgb(205,214,204)}
+table,td{border:1px solid black}
+.width-200{width:200px}
+.width-600{width:600px}
